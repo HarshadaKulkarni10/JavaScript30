@@ -1,2 +1,2 @@
-# JavaScript30-
+# JavaScript30
 30 Days Javascript Challenge
